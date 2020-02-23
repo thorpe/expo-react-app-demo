@@ -7,6 +7,7 @@ typings
 .DS_Store
 .idea
 .expo/*
+package-lock.json
 
 
 # Xcode
