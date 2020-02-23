@@ -21,12 +21,11 @@ export default class HomeScreen extends Component<IProps, IState> {
     }
   }
 
-
   render() {
     return (
       <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
         <Text>{this.state.text}</Text>
-        <Text>ssssssss</Text>
+        <Text>ssssssdfdfdfdfss</Text>
       </View>
     )
   }
