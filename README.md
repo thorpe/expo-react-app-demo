@@ -1,29 +1,21 @@
 01. Requirement
 ```
 sign-up on expo.io
+install expo application from google store
 ```
 
-install
+02.Install
 ```
-npm i -g create-react-native-app
-create-react-native-app expo-react-app-demo
-
-cd expo-react-app-demo
-
-git clone
+git clone https://github.com/thorpe/expo-react-app-demo.git
+npm install
 ```
 
-choose 
+03.Run
 ```
-npm i -g create-react-native-app
-create-react-native-app expo-react-app-demo
-
-cd expo-react-app-demo
-
-git clone
+expo start
 ```
 
-build
+04.Build And Deploy
 ```
 expo build:ios
 expo build:android

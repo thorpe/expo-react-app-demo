@@ -6,6 +6,7 @@ typings
 #
 .DS_Store
 .idea
+.expo/*
 
 # Xcode
 #
