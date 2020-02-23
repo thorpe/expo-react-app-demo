@@ -1,9 +1,9 @@
 import React from 'react';
-import HomeScreen from './src/Containers/HomeScreen';
+import HomeContainer from './src/Containers/HomeContainer';
 
 function App() {
   return (
-    <HomeScreen/>
+    <HomeContainer/>
   );
 }
 
